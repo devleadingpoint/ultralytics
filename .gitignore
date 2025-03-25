@@ -156,7 +156,7 @@ weights/
 *.mlmodel
 *.mlpackage
 *.torchscript
-*.tflite
+#*.tflite
 *.h5
 *.mnn
 *_saved_model/
