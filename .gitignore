@@ -154,7 +154,7 @@ weights/
 #*.onnx
 *.engine
 #*.mlmodel
-*.mlpackage
+#*.mlpackage
 *.torchscript
 #*.tflite
 *.h5
